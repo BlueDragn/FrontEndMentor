@@ -8,7 +8,7 @@
 |Ser.No.| Challenge Name | Solution URL |
 |---| ------ | ------ |
 |1| 3-column preview card component |  |
-|2|  |  |
+|2| base-apparel-coming-soon-master |  |
 |3| |  |
 |4|  |  |
 |5|  | |
