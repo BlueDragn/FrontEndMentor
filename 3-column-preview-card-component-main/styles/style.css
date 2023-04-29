@@ -1,0 +1,136 @@
+:root{
+    --primary-color1: hsl(31, 77%, 52%);
+    --primary-color2:hsl(184, 100%, 22%);
+    --primary-color3:hsl(179, 100%, 13%);
+
+    --neutral-color-1: hsla(0, 0%, 100%, 0.75);
+    --neutral-color-2:hsl(0, 0%, 95%);
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+  }
+
+  /* Font Family */
+  @font-face {
+    font-family: "Lexend Deca";
+    src: url("https://fonts.google.com/specimen/Lexend+Deca");
+    font-weight:400;
+
+    font-family: "Big Shoulders Display";
+    src: url("https://fonts.google.com/specimen/Big+Shoulders+Display");
+    font-weight: 700;
+  }
+  /* Main Content*/
+#main{
+width:  1440px;
+height: 600px;
+
+display:flex;
+flex-direction: row;
+flex-wrap: nowrap;
+justify-content:center;
+align-items: center;
+align-content: center;
+
+position:absolute;
+top:200px;
+left: 220px;
+
+
+
+
+
+
+
+}
+.container-1{
+    background-color: var(--primary-color1);
+    height: 100%;
+    width: 350px;
+
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+
+
+
+
+
+}
+.container-2{
+    background-color: var(--primary-color2);
+    height: 100%;
+    width: 350px;
+
+
+}
+.container-3{
+    background-color: var(--primary-color3);
+    height: 100%;
+    width: 35%;
+    width: 350px;
+
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+
+}
+h1{
+    margin-left: 50px;
+    font-size: 40px;
+    font-stretch: expanded;
+    font-style: inherit;
+    color: var(--neutral-color-2);
+    font-family: 'Big Shoulders Display', cursive;
+
+}
+p{
+    color: var(--neutral-color-1);
+    font-size: 15px;
+
+    font-family: 'Lexend Deca', sans-serif;
+    text-align: left;
+    line-height: 30px;
+
+    margin-left: 50px;
+    margin-right: 100px;
+}
+button{
+    margin-left: 50px;
+    margin-top: 100px;
+
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    font-weight: bold;
+
+    font-size: 15px;
+}
+
+
+img
+{
+    margin-left: 50px;
+    margin-top: 60px;
+}
+footer{
+position: absolute;
+bottom: 20px;
+left: 600px;
+margin-left: 25px;
+margin-top: 20px;
+
+}
+.attribution{
+    font-size: 22px;
+
+
+
+ }
+.attribution a{
+    color: hsl(228, 45%, 44%);
+}
