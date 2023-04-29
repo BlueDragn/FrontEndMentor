@@ -1,0 +1,13 @@
+
+h4{
+    letter-spacing:3px;
+    text-transform: uppercase;
+}
+#container{
+    max-width: 1440px;
+    background-color:yellowgreen
+}
+
+body{
+    background-color: rgb(18, 153, 108);
+}
