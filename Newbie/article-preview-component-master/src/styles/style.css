@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+
+}
+.card{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+
+}
+.image-container{
+width: 350px;
+}
+.image-container >img{
+width:370px;
+height: 270px;
+}
+.info-container{
+border: 1px solid brown;
+text-align: left;
+padding: 5px;
+
+
+}
+.info-container > h2{
+    padding: 5px;
+    line-height: 1.2;
+    border: 1px solid yellow;
+
+
+}
+.account-info{
+    height: 100px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.header-info{
+
+}
+.header-info>p{
+
+}
+.img-2{
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+}
+.img-3{
+    width: 40px;
+    height:40px;
+   background-color: rgb(223, 233, 242);
+   border-radius: 50%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.pop-up{
+    background-color:rgb(95, 104, 113);
+    display: flex;
+    justify-content: space-around;
+}
