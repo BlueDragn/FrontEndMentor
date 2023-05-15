@@ -18,9 +18,7 @@ Welcome to my Frontend Mentor projects repository! 🎉 This repository serves a
     - [Guru](#guru)
   - [Connect](#connect)
 
-## About
 
-Welcome to my Frontend Mentor projects repository! 🎉 This repository showcases a collection of projects completed from the Frontend Mentor website. Each project demonstrates my frontend development skills and expertise in creating beautiful and responsive web interfaces.
 
 ## Projects
 
