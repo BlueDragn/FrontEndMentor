@@ -1,0 +1,51 @@
+.hearder-container{
+    border: 1px solid red;
+}
+
+.cards-container{
+    border: 1px solid green;
+    display: flex;
+    flex-direction: column;
+
+}
+.card-cont-1{
+    border: 1px solid yellow;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+}
+.card-header{
+    display: flex;
+    flex-direction: column;
+
+}
+.card-cont-2{
+    border: 1px solid rgb(12, 66, 159);
+
+}
+.card-cont-3{
+    border: 1px solid blueviolet;
+    width: 300px;
+    height: 200px;
+}
+.card{
+    width: 300px;
+    height: 200px;
+}
+
+h2{
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+img{
+    width:64px;
+    height: 64px;
+
+}
