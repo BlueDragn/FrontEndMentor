@@ -15,26 +15,19 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-
-
-
-
-
 }
 .container{
     width: 1440px;
     height:800px;
 
     display: flex;
-
-
 }
 
 /*Section-1 styling */
 .section-1{
     /*background-color: rgb(34, 90, 140);*/
     width: 70%;
-    background-image: url("./images/bg-pattern-desktop.svg"),linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
+    background-image: url("./src/images/bg-pattern-desktop.svg"),linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
 
 }
 .logo{
