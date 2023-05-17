@@ -1,3 +1,58 @@
+/*Reset the default style by browser */
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/** Page styling Begins **/
+
+/** Setting up the global variable **/
 :root{
     --primary-color1: hsl(31, 77%, 52%);
     --primary-color2:hsl(184, 100%, 22%);
@@ -12,8 +67,8 @@
   
   body {
     height: 100vh;
-    margin: 0;
-    overflow: hidden;
+    margin: 0 auto;
+    /* overflow: hidden; */
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -31,9 +86,9 @@
     font-weight: 700;
   }
   /* Main Content*/
-#main{
-width:  1440px;
-height: 600px;
+.main{
+max-width:  900px;
+/* min-height: 500px; */
 
 display:flex;
 flex-direction: row;
@@ -42,87 +97,81 @@ justify-content:center;
 align-items: center;
 align-content: center;
 
-/* position:absolute;
-top:200px;
-left: 220px; */
-
 }
 
-.container-1{
+.sedan-container{
     background-color: var(--primary-color1);
     height: 100%;
-    width: 350px;
-
-    border-top-left-radius: 5%;
-    border-bottom-left-radius: 5%;
+    width: 35%;
+    padding:50px;
+/* border prop */
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+.car-info{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 40px;
 
 }
-.container-2{
+.suv-container{
     background-color: var(--primary-color2);
     height: 100%;
-    width: 350px;
+    width: 35%;
+    padding: 50px;
 
 }
-.container-3{
+.luxury-container{
     background-color: var(--primary-color3);
     height: 100%;
     width: 35%;
-    width: 350px;
+    padding: 50px;
 
-    border-top-right-radius: 5%;
-    border-bottom-right-radius: 5%;
+/* border prop */
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
 
 }
+
+
 h1{
-    margin-left: 50px;
+    /* margin-left: 50px; */
     font-size: 40px;
     font-stretch: expanded;
     font-style: inherit;
     color: var(--neutral-color-2);
-    font-family: 'Big Shoulders Display', cursive;
+    font-family: 'Big Shoulders Display', 'cursive';
 
 }
 p{
     color: var(--neutral-color-1);
     font-size: 15px;
 
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Lexend Deca', 'sans-serif';
     text-align: left;
-    line-height: 30px;
+    line-height: 1.5;
 
-    margin-left: 50px;
-    margin-right: 100px;
+
 }
 button{
-    margin-left: 50px;
-    margin-top: 100px;
 
     width: 150px;
     height: 50px;
     border-radius: 25px;
     font-weight: bold;
-
     font-size: 15px;
 }
 
 
-img
-{
-    margin-left: 50px;
-    margin-top: 60px;
-}
-footer{
-position: absolute;
-bottom: 20px;
-left: 600px;
-margin-left: 25px;
-margin-top: 20px;
 
-}
+/*
 .attribution{
     font-size: 22px;
    align-self: flex-end;
  }
 .attribution a{
     color: hsl(228, 45%, 44%);
-}
+} */
