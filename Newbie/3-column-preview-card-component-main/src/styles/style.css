@@ -70,7 +70,8 @@ table {
     margin: 0 auto;
     /* overflow: hidden; */
     display: flex;
-    flex-direction: row;
+    gap: 50px;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
   }
@@ -166,15 +167,19 @@ button{
 }
 
 
+/* Footer */
+.footer{
+    /* align-self: flex-start; */
 
-/*
+}
+
 .attribution{
-    font-size: 22px;
-   align-self: flex-end;
+   font-size: 22px;
+
  }
 .attribution a{
     color: hsl(228, 45%, 44%);
-} */
+}
 
 /** Mobile Design **/
 
