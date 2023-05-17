@@ -175,3 +175,27 @@ button{
 .attribution a{
     color: hsl(228, 45%, 44%);
 } */
+
+/** Mobile Design **/
+
+@media only screen and (max-width: 600px) {
+   .main{
+    flex-direction: column;
+    margin:  auto 0;
+    padding: 20px;
+   }
+   .sedan-container{
+    width: 100%;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 0;
+
+   }
+   .suv-container{
+    width: 100%;
+   }
+   .luxury-container{
+    width: 100%;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 12px;
+   }
+  }
