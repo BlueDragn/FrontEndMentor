@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [repo](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/3-column-preview-card-component-main)
-- Live Site URL: [live site](https://3-columns-card-preview.netlify.app/)
+- Live Site URL: [live site](https://newbie-3-column-cards.netlify.app/)
 
 ## My process
 
