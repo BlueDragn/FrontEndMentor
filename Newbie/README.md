@@ -4,35 +4,13 @@ Welcome to the "Newbie" subdirectory containing a collection of HTML and CSS cha
 
 ## Project List
 
-1. ### Project Name 1
+1. ### 3-column preview card component
 
-   - Description: Brief overview of the challenge and its objectives.
-   - Screenshot: ![Project Name 1](newbie/project-1/screenshot.png)
-   - GitHub Repo: [Link](https://github.com/yourusername/project-1)
-   - Live Demo: [Link](https://yourusername.github.io/project-1)
+   The "3-Column Preview Card Component" project is a frontend challenge designed to improve CSS layout skills and create a responsive design. The goal of this project is to build a visually appealing component that showcases three different preview cards side by side. Each card contains an image, a title, and a brief description.
+   ![Project Name 1](../Newbie/3-column-preview-card-component-main/src/images/Pasted%20image.png)
+    **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/3-column-preview-card-component-main) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
 
-2. ### Project Name 2
-
-   - Description: Brief overview of the challenge and its objectives.
-   - Screenshot: ![Project Name 2](newbie/project-2/screenshot.png)
-   - GitHub Repo: [Link](https://github.com/yourusername/project-2)
-   - Live Demo: [Link](https://yourusername.github.io/project-2)
-
-3. ### Project Name 3
-
-   - Description: Brief overview of the challenge and its objectives.
-   - Screenshot: ![Project Name 3](newbie/project-3/screenshot.png)
-   - GitHub Repo: [Link](https://github.com/yourusername/project-3)
-   - Live Demo: [Link](https://yourusername.github.io/project-3)
-
-4. ### Project Name 4
-
-   - Description: Brief overview of the challenge and its objectives.
-   - Screenshot: ![Project Name 4](newbie/project-4/screenshot.png)
-   - GitHub Repo: [Link](https://github.com/yourusername/project-4)
-   - Live Demo: [Link](https://yourusername.github.io/project-4)
-
-...
 
 ## Summary of Learning
 
