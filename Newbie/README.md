@@ -37,28 +37,28 @@ Welcome to the "Newbie" subdirectory containing a collection of HTML and CSS cha
 
 3. ## Base Apparel coming soon page
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
+       This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
    ![Project Name 2](../Newbie/base-apparel-coming-soon-master/src/design/desktop-preview.jpg)
     **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
 
 4. ## FAQ accordion card
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
+       This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
    ![Project Name 2](../Newbie/faq-accordion-card-main/src/design/desktop-preview.jpg)
     **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/faq-accordion-card-main) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
 
 5. ## Four card feature section
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.</br>
+       This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.</br>
    ![Project Name 2](../Newbie/four-card-feature-section-master/src/design/desktop-preview.jpg)
     **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/four-card-feature-section-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
 
 6. ## Huddle landing page with a single introductory section
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
+       This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
    ![Project Name 2](../Newbie/huddle-landing-page-with-single-introductory-section-master/src/design/desktop-preview.jpg)
     **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
@@ -66,7 +66,7 @@ Welcome to the "Newbie" subdirectory containing a collection of HTML and CSS cha
 
 7. ## Interactive rating component
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
+       This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
    ![Project Name 2](../Newbie/interactive-rating-component-main/src/design/desktop-preview.jpg)
     **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
@@ -74,7 +74,7 @@ Welcome to the "Newbie" subdirectory containing a collection of HTML and CSS cha
 
 8. ## Intro component with sign-up form
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
+       This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
    ![Project Name 2](../Newbie/intro-component-with-signup-form-master/src/design/desktop-preview.jpg)
     **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
@@ -83,7 +83,7 @@ Welcome to the "Newbie" subdirectory containing a collection of HTML and CSS cha
 9. ## NFT preview card component
 
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
+       This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
    ![Project Name 2](../Newbie/nft-preview-card-component-main/src/design/desktop-preview.jpg)
     **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
@@ -91,38 +91,39 @@ Welcome to the "Newbie" subdirectory containing a collection of HTML and CSS cha
 10. ## Order summary component
 
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
-   ![Project Name 2](../Newbie/order-summary-component-main/src/design/desktop-preview.jpg)
-    **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
+
+     ![Project Name 2](../Newbie/order-summary-component-main/src/design/desktop-preview.jpg)
+     **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
 
 
 11. ## Ping single column coming soon page
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
-   ![Project Name 2](../Newbie/ping-coming-soon-page-master/src/design/desktop-preview.jpg)
-    **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
+        This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
+       ![Project Name 2](../Newbie/ping-coming-soon-page-master/src/design/desktop-preview.jpg)
+       **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
 
 
 12. ## Product preview card component
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
-   ![Project Name 2](../Newbie/product-preview-card-component-main/src/design/desktop-preview.jpg)
-    **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
+       ![Project Name 2](../Newbie/product-preview-card-component-main/src/design/desktop-preview.jpg)
+        **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
 
 13. ## Profile card component
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
-   ![Project Name 2](../Newbie/profile-card-component-main/src/design/desktop-preview.jpg)
+        This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
+    ![Project Name 2](../Newbie/profile-card-component-main/src/design/desktop-preview.jpg)
     **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
 
 14. ## QR code component
 
-    This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
-   ![Project Name 2](../Newbie/qr-code-component-main/src/design/desktop-preview.jpg)
+        This  challenge focuses on creating an interactive preview card for articles or blog posts. The main objective of this project is to build a visually engaging component that provides users with a glimpse of an article's content, including the article heading, a brief description, and the author's image with social media share links.
+      ![Project Name 2](../Newbie/qr-code-component-main/src/design/desktop-preview.jpg)
     **GitHub Repo:** [Link](https://github.com/BlueDragn/FrontEndMentor/tree/main/Newbie/base-apparel-coming-soon-master) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      **Live Demo:** [Link](https://newbie-3-column-cards.netlify.app/)
 
